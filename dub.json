@@ -1,0 +1,12 @@
+{
+	"name": "onedrive",
+	"authors": [
+		"wang zhong hao"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, mecom",
+	"license": "proprietary",
+    "dependencies": {
+        "mysql-native": "~>2.2.2"
+	}
+}

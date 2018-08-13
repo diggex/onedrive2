@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+onedrive.so
+onedrive.dylib
+onedrive.dll
+onedrive.a
+onedrive.lib
+onedrive-test-*
+*.exe
+*.o
+*.obj
+*.lst
